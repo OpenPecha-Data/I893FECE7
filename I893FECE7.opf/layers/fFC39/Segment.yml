@@ -1,0 +1,99 @@
+id: 026bb9b005004bf48603ad43195fa755
+annotation_type: Segment
+revision: '00001'
+annotations:
+  6ec0273cfb1f41e89e4ee3f1909df1e2:
+    span:
+      start: 0
+      end: 98
+    metadata: {}
+  9ce16edc09a94b7db0732271a875aba3:
+    span:
+      start: 100
+      end: 9642
+    metadata: {}
+  b8d616381d59425a8c0330ae0dea8ed0:
+    span:
+      start: 9644
+      end: 10304
+    metadata: {}
+  da23c07c4ce5456b9af63e6a3f7673a0:
+    span:
+      start: 10306
+      end: 11003
+    metadata: {}
+  ed9f5000fe784d8694dd5697054441d3:
+    span:
+      start: 11005
+      end: 11694
+    metadata: {}
+  f9a9703b5102441087cdcc7b978a728f:
+    span:
+      start: 11696
+      end: 12503
+    metadata: {}
+  6b55c8ebade1484c9e2c0eada6841833:
+    span:
+      start: 12505
+      end: 13177
+    metadata: {}
+  40e1c741944a4d7f885f9e3f3019742f:
+    span:
+      start: 13179
+      end: 13845
+    metadata: {}
+  13fbc3c5a7154520908126ab818ec6b0:
+    span:
+      start: 13847
+      end: 14546
+    metadata: {}
+  3cd1b26945f34ad2ac8e6d438c08acb2:
+    span:
+      start: 14548
+      end: 15246
+    metadata: {}
+  3070b51aaf6944819c2eb6ce67498291:
+    span:
+      start: 15248
+      end: 15951
+    metadata: {}
+  407ea4c87a8b4e338ceba20dcac262b3:
+    span:
+      start: 15953
+      end: 16653
+    metadata: {}
+  b5f02d2e3c4a4d5797fb80f01224e371:
+    span:
+      start: 16655
+      end: 17356
+    metadata: {}
+  bd7ce7ff6e1842f5b5aeb652e5917784:
+    span:
+      start: 17358
+      end: 17985
+    metadata: {}
+  8c1a6a80fcea41daa413bc79897d932d:
+    span:
+      start: 17987
+      end: 18571
+    metadata: {}
+  f52d0a36b26b4a359ee569d6689329b7:
+    span:
+      start: 18573
+      end: 19219
+    metadata: {}
+  238a925f103c4c91a75e04b65bdf158f:
+    span:
+      start: 19221
+      end: 19977
+    metadata: {}
+  b5a4037b56384d2e969badf9e2c18180:
+    span:
+      start: 19979
+      end: 20619
+    metadata: {}
+  dd3e32771ea4454ab5f6b500da5b62c3:
+    span:
+      start: 20621
+      end: 23981
+    metadata: {}
